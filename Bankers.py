@@ -142,3 +142,4 @@ elif answer.lower() == 'n':
             print("Safe sequence:", " -> ".join(f"p{i}" for i in sequence))
         else:
             print("System is not in safe state.")
+
